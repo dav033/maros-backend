@@ -35,7 +35,7 @@ app.post("/contact-us", async (req, res) => {
           email: "no-reply@marosconstruction.com",
           name: "Contact Maros Construction",
         }, // Use your own domain email
-        to: [{ email: "david.theran03@gmail.com" }],
+        to: [{ email: "dav030201@gmail.com" }],
         subject: "Contact form Maros Construction",
         htmlContent: `
       <html>
